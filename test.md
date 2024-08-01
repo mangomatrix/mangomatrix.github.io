@@ -1,1 +1,3 @@
-第一个测试
+layout: page
+title: "PAGE-TITLE"
+permalink: https://mangomatrix.github.io/testmd
